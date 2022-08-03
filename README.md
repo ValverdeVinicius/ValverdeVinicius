@@ -11,5 +11,5 @@
    
 ##
 - 🔭 Estudante de Backend
-- 🌱 Domínio e constante aprendizado das Linguagens Java, Pytohn e SQL.
+- 🌱 Domínio e constante aprendizado das Linguagens Java, Python e SQL.
 - 📫 Contato: valverdevinicius@protonmail.com
