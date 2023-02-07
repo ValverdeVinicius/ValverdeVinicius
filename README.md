@@ -10,6 +10,6 @@
  <div>
    
 ##
-- 🔭 Estudante de Backend
+- 🔭 Estudante de Backend e Segurança da informação
 - 🌱 Domínio e constante aprendizado das Linguagens Java, Python e SQL.
 - 📫 Contato: valverdevinicius@protonmail.com
