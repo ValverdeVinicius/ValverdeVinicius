@@ -1,4 +1,4 @@
-### Olá, eu sou Vinicius Valverde
+### Hello, I am Vinicius Valverde
 
 <div align="center">
   <a href="https://github.com/ValverdeVinicius">
@@ -10,6 +10,6 @@
  <div>
    
 ##
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas com foco em Backend e Segurança da informação
-- 🌱 Domínio e constante aprendizado das Linguagens Java, Python e SQL.
-- 📫 Contato: valverdevinicius@protonmail.com
+- 🔭 Systems Analysis and Development Student with focus on Backend and Information Security
+- 🌱 Mastary and constant learning of Java, Python and SQL languages.
+- 📫 Contact: valverdevinicius@protonmail.com
