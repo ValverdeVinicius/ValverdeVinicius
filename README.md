@@ -10,7 +10,7 @@
  <div>
    
 ##
-- WebSite: <a href="https://viniciusvalverde.dev.br" https://viniciusvalverde.dev.br a/>
+- WebSite: https://viniciusvalverde.dev.br
 - 🔭 Systems Analysis and Development Student with focus on Backend and Information Security
 - 🌱 Mastery and constant learning of Java, Python, C#, C++, PHP and SQL languages.
-- 📫 Contact:<a href="mailto:vinicius@viniciusvalverde.dev.br" vinicius@viniciusvalverde.dev.br a/>
+- 📫 Contact:vinicius@viniciusvalverde.dev.br
