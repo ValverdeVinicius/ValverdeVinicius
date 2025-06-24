@@ -12,4 +12,4 @@
 ##
 - 🔭 Systems Analysis and Development Student with focus on Backend and Information Security
 - 🌱 Mastery and constant learning of Java, Python and SQL languages.
-- 📫 Contact: valverdevinicius@protonmail.com
+- 📫 Contact: mailto:vinicius@viniciusvalverde.dev.br
